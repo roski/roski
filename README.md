@@ -5,4 +5,4 @@
   />
 </a>
 
-[Learn more about me](https://romaskydan.com/)
+[Learn more about me](https://romaskydan.com/about)
